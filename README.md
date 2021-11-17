@@ -4,6 +4,6 @@ Automation is the creation and application of technologies to produce and delive
 This project adds a moderator to all existing contests in your hackerrank account. This can be a repetivite and time consuming task thus we use automation to make it simple and easy.
 
 I have created this project using JavaScript libraries.
-Libraries used - puppeteer
-                 minimist
+Libraries used - puppeteer,
+                 minimist,
                  file sytem
