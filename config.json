@@ -1,6 +1,6 @@
 
     {
-        "userid" : "", //add your hackerrank userId
-        "password" : "", //add your hackerrank password
-        "moderator" : "" //add the name of moderator you wish to include 
+        "userid" : "add your hackerrank userId", 
+        "password" : "add your hackerrank password", 
+        "moderator" : "add the name of moderator you wish to include " 
     }
